@@ -14,3 +14,8 @@ This shader will come with the required 'sheet', however you must convert it to 
 Apple the ripplesheet and tile it to your desired amount of ripples.
 
 There are many effects that you achieve with this shader and Im excited to see what people do with it!
+
+
+
+LICENSING:
+I'm with credit or without
