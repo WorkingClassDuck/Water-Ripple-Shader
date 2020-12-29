@@ -18,4 +18,4 @@ There are many effects that you achieve with this shader and Im excited to see w
 
 
 LICENSING:
-I'm with credit or without
+I'm fine with credit or without.
